@@ -1,0 +1,7 @@
+{
+  "name": "issue_cap_739",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
